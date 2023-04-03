@@ -1,0 +1,12 @@
+
+
+Column names in C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\Heather_TDS7.gdb: Table TRANSPORTATIONGROUNDCRV that were ignored due to not being recognized:
+   "acc"
+   "zi016_wd2"
+   "zi016_wt2"
+   "version"
+
+
+Column names in C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\Heather_TDS7.gdb: Table STRUCTURESRF that were ignored due to not being recognized:
+   "version"
+

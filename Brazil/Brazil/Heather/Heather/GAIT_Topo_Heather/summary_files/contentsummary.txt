@@ -1,0 +1,41 @@
+Content summary compiled by GAIT 26
+Project: C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\GAIT_Topo_Heather\ (None Found)
+Coordinate system in effect: GDC (Geodetic)
+Southwest corner of data (-40.0963041, -19.4201035)
+Northeast corner of data (-40.0443644, -19.3396337)
+0 Grids containing 0 grid points
+0 Point features
+   Multi-part point features: 0 (0 total parts)
+680 Curve features including 6183 vertices (average 9.1 vertices per feature)
+   Minimum vertices on any curve feature: 2
+   Maximum vertices on any curve feature: 208
+   Multi-part curve features: 3 (9 total parts)
+15 Surface features including 101 vertices (average 6.7 vertices per feature)
+   Number of surface feature cut-outs (not included in above surface feature count): 0
+   Minimum vertices on any surface feature: 5
+   Maximum vertices on any surface feature: 12
+   Multi-part surface features: 0 (0 total parts)
+
+Total feature count (point features + curve features + surface features): 695
+The TDS Entity Catalog includes several feature types (e.g., classification plus
+geometry) that are described as "geometry not included" or "Feature only in the EC"
+and these feature types are noted as "not allowed" by associated extraction guide.
+Such "EG disallowed" features will be included in GAIT projects (when present), but 
+will only be inspected for schema violations (e.g., attribute data type) and only those
+geometric inspections that are applied to all feature types (e.g., duplication) will be
+applied to these features as part of Master Profile inspections.
+TDS features in this category and included in this project are listed below
+
+No such features have been included in this project
+
+
+Data content by classification and geometric form
+AQ040 Bridge  6 occurrences, by type
+    6 Curve
+AL013 Building  9 occurrences, by type
+    9 Surface
+AL014 Non-building Structure  6 occurrences, by type
+    6 Surface
+AP030 Road  674 occurrences, by type
+    674 Curve
+       (including 3 multi-part features with 9 total parts)

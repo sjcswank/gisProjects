@@ -1,0 +1,273 @@
+          GAIT Project Creation Report                                   
+                                   
+GAIT Version                     : 26
+GAIT Project:                    :
+    C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\GAIT_Topo_Heather\
+Project Creation Date (local)              : Wed Jan 04 12:34:19 2023
+Project Creation Date (UTC)                : 2023-01-04T18:34:19Z
+                                   
+GAIT PROJECT                       
+                                   
+SW Longitude                     : 40.0963041 W
+SW Latitude                      : 19.4201035 S
+NE Longitude                     : 40.0443640 W
+NE Latitude                      : 19.3396340 S
+                                   
+Attribution Schema               : TDS (v6.1)
+Project Classification           : None Found
+Feature Types                    : 4
+Point Features                   : 0
+Line Features                    : 680
+Area Features                    : 15
+Total Features                   : 695
+                                   
+Total Raster Files               : 0
+Total Raster Posts               : 0
+                                   
+                                   
+Input Data Anomalies:               
+                                   
+1. Zero-Part Area/Line errors occur when line or area
+   features contain 0 parts (no geometry)
+                                   
+   Zero-Part Area/Line errors found:
+      None.
+      
+2. NULL Feature errors occur when shapefiles contain NULL
+   shape types (no geometry)
+                                   
+   NULL Feature errors found:
+      None.
+      
+3. Invalid Coordinate errors occur when input data are not in
+   geographic (lat/long) coordinates
+                                   
+   Invalid Coordinate errors found:
+      None.
+      
+4. Invalid Cut-Out errors occur when cut-outs are found that are
+   not contained in the feature's external boundary
+                                   
+   Invalid Cut-Out errors found:
+      None.
+      
+5. Unrecognized Column Names occur when tables contain columns which
+   are unrecognized using the current attribution schema and metadata
+   naming                          
+                                   
+   Unrecognized Column Names found:
+       1:    "acc"
+       2:    "version"
+       3:    "zi016_wd2"
+       4:    "zi016_wt2"
+      
+6. Invalid Data Type errors occur when data columns (attributes) do not
+   have an appropriate data type (String, Integer) as specified by the data
+   model for the given feature and attribute
+                                   
+   Invalid Data Type errors found:
+      2 Attributes with invalid data type found.
+      
+7. Empty or Invalid Shapefiles or Tables occur when shapefiles or tables
+   (Geodatabase or GeoMedia Access) contain no features or the DBF file for
+   a shapefile has been truncated to 2.0GB and does not match the .shp file
+                                   
+   Empty or Invalid Shapefiles or Tables found:
+      89 blank Geodatabase Tables found.
+      
+8. Geodatbase Bezier/Circle/Ellipse features are features in  Goedatabases
+   coded as these types of curves, not as explicit geometries
+                                   
+   Geodatbase Bezier/Circle/Ellipse features found:
+      12 Geodatabase Bezier/Circle/Ellipse features found.
+                                   
+                                   
+ATTRIBUTION ERRORS                 
+                                   
+1. FCODE errors occur when a feature data set contains an FCODE which is
+   not recognized with the chosen attribution schema. 
+                                   
+   FCODE errors found:           
+      None.
+                                   
+2. Blank Attribute errors occur when a data table:
+   contains blank attributes (unpopulated with any value)   
+                                   
+   Blank Attribute errors found:           
+      None.
+                                   
+3. Invalid Case errors occur when:
+   - A recognized attribute is found for a feature             
+   - The attribute has a known set of valid pick-list values   
+   - The value assigned to the attribute is one of the valid values,
+     but only after changing the case of at least one character.
+                                   
+   Invalid Case errors found:           
+      None.
+                                   
+4. Non Domain Specific Pick-list errors occur when:
+   - A recognized attribute is found for a feature             
+   - The attribute has a known set of valid pick-list values   
+   - The value assigned to the attribute is not one of the valid values
+                                   
+   Non Domain Specific Pick-list errors found:     
+                                                                  
+          Attribute            Invalid Value                Occurs
+     1.   ZI001_SRT            "-999999"                       695
+     2.   ZI001_VSC            "-999999"                       695
+     3.   ZI004_RCG            "-999999"                       695
+                                   
+
+5. Domain-specific pick-list errors occur when a value assigned
+   to a recognized attribute attached to a feature with a recognized FCODE
+   is not a member of the associated domain of allowed pick-list values.
+
+   Attributes with domain-specific pick list errors: 0
+
+
+6. Unexpected FCODE - geometry pair errors occur when a feature has a recognized
+   FCODE but the geometry of the feature (e.g. point, line, area) has not
+   been associated with an instance of that FCODE in the current schema
+
+   FCODES with unexpected FCODE - geometry pair errors: 0
+
+
+7. Value range errors occur when a value has been assigned to a
+   recognized attribute and that value is outside (e.g., above or below)
+   the range of valid values prescribed for use with that feature (FCODE),
+   attribute, and geometry.
+
+   Attributes with value range errors: 0
+
+
+8. Unexpected attribute errors occur when a recognized
+   attribute is assigned to a feature having a recognized FCODE and that
+   attribute is not a member of the list of attributes prescribed for use
+   with features having the FCODE and geometry.
+
+   Attributes with unexpected attribute errors: 1
+
+        Attribute                     Attribute      Unexpected     Percent
+        Name                             Occurs     Occurrences     Invalid
+     1. AHA (Absolute                       695             695    100.000%
+          Horizontal Accuracy (90%))
+                          TOTAL             695             695    100.000%
+
+9. Missing attribute field or value errors occur when a specific
+   attribute has been designated as mandatory for assignment to a feature
+   (according to the assigned classification and geometry), and one or more of
+   those attributes is not associated with the feature in the GAIT project.
+   Attributes may be reported as missing when: 1) there is no field for the
+   attribute in the input data; 2) the field name is not exactly the same as the
+   attrbute code; 3) the correct field appears in the input data, but the value
+   for a specific record is invalid.  Any attributes reported in the below list
+   should be cross-checked with other errors reported as: 1) Unrecognized Column
+   Names (see Input Data Anomalies); 2) Blank Attribute errors; and 3) Non
+   Domain Specific Pick-list errors.
+
+   Attributes identifed as missing attribute field or value errors: 33
+
+        Attribute                     Attribute       Attribute     Percent
+        Name                             Occurs         Missing     Invalid
+     1. AWP (Aeronautical                     0              21    100.000%
+          Obstacle Light Present)
+     2. ATB (Attached Building)               0               9    100.000%
+     3. BEN (Basic Encyclopedia               0             695    100.000%
+          (BE) Number)
+     4. ZI004_RCG (Feature                    0             695    100.000%
+          Metadata : Process Step Information : Resource Content Originator)
+     5. HST (Hazard Shelter                   0               9    100.000%
+          Intended Use)
+     6. HST2 (Hazard Shelter                  0               9    100.000%
+          Intended Use [2])
+     7. HST3 (Hazard Shelter                  0               9    100.000%
+          Intended Use [3])
+     8. MFB (Manufactured                     0               9    100.000%
+          Building)
+     9. MUB (Multi-unit                       0               9    100.000%
+          Building)
+    10. WD2 (Route Total Usable               0             674    100.000%
+          Width)
+    11. SAX_RX7 (Security                     0             695    100.000%
+          Attributes Group <resource SCI controls>)
+    12. SAX_RY2 (Security                     0             695    100.000%
+          Attributes Group <resource atomic energy markings>)
+    13. SAX_RS1 (Security                     0             695    100.000%
+          Attributes Group <resource classification reason>)
+    14. SAX_RS2 (Security                     0             695    100.000%
+          Attributes Group <resource classified by>)
+    15. SAX_RX9 (Security                     0             695    100.000%
+          Attributes Group <resource compilation reason>)
+    16. SAX_RS3 (Security                     0             695    100.000%
+          Attributes Group <resource date of exempted source>)
+    17. SAX_RS4 (Security                     0             695    100.000%
+          Attributes Group <resource declassification date>)
+    18. SAX_RS5 (Security                     0             695    100.000%
+          Attributes Group <resource declassification event>)
+    19. SAX_RS6 (Security                     0             695    100.000%
+          Attributes Group <resource declassification exception>)
+    20. SAX_RS8 (Security                     0             695    100.000%
+          Attributes Group <resource derivatively classified by>)
+    21. SAX_RS9 (Security                     0             695    100.000%
+          Attributes Group <resource derived from>)
+    22. SAX_RY0 (Security                     0             695    100.000%
+          Attributes Group <resource display only to>)
+    23. SAX_RX1 (Security                     0             695    100.000%
+          Attributes Group <resource foreign government information (open source)>)
+    24. SAX_RX2 (Security                     0             695    100.000%
+          Attributes Group <resource foreign government information (protected source)>)
+    25. SAX_RY1 (Security                     0             695    100.000%
+          Attributes Group <resource non-US controls>)
+    26. SAX_RX5 (Security                     0             695    100.000%
+          Attributes Group <resource releasable to>)
+    27. SAX_RX6 (Security                     0             695    100.000%
+          Attributes Group <resource special-access-required program identifier>)
+    28. SAX_RX8 (Security                     0             695    100.000%
+          Attributes Group <resource type of exempted source>)
+    29. ZI001_SRT (Source                     0             695    100.000%
+          Information : Source Type)
+    30. ZI001_VSC (Source                     0             695    100.000%
+          Information : Vertical Source Category)
+    31. VCS_VCR (Vertical                     0               6    100.000%
+          Clearance, Safe <reference level remark>)
+    32. VCS_VCD (Vertical                     0               6    100.000%
+          Clearance, Safe <reference level>)
+    33. WT2 (Width of Second                  0             674    100.000%
+          Travelled Way)
+                          TOTAL               0           16725    100.000%
+
+10.TDS v6 attribute dependency errors occur when the allowed value
+   of one attribute depends on the value assigned to another attribute - as
+   an example, if a river is designated as intermittent or dry, then it may
+   also be required to be non-tidal, so river features described as dry and
+   tide-influenced would violate this dependency relationship.
+
+   Attributes involved in TDS attribute dependency errors: 0
+
+
+11.GAIT recognizes both 3-character and 17-character codes for the
+   "(Location Country) Designation : GENC Short URN-based Identifier"
+   set of attributes (ZI020_GE4, ZI020_GE42, ZI020_GE43, and ZI020_GE44).
+   The sentinel codes "other" and "noInformation" are also recognized.
+   Frequency counts for these 3 catgories of code values are provided below.
+
+     Sentinel: 695     3-character code: 0     17-character code: 0
+
+
+12.TDS metadata errors occur when the metadata is not in compliance
+   with the requirements detailed in the spreadsheet "TDS_6_1_20140424"
+   version dated 24 April, 2014.  Example errors include
+   cases of missing attributes that are required, invalid pick list values,
+   and the assignment of invalid values given the existing values for other
+   metadata attributes.
+
+   Attributes with TDS DCS metadata errors: 1
+
+          Condition  Condition
+        Occurrences  Description
+     1.         695  Attribute UFI (Unique Entity Identifier): required
+                      unique ID attribute has value 'noInformation' 
+  TOTAL         695
+
+                                   
+                                   

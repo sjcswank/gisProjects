@@ -1,0 +1,3 @@
+This inspection is only run for MGCP attribution schema projects
+
+

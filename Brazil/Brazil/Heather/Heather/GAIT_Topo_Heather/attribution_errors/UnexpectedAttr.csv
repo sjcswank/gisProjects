@@ -1,0 +1,5 @@
+FCODE,"FCODE Name","FCODE Occurrences","Illegal Attribute","Attribute Name","Illegal Attribute Occurrences","Percent"
+"AL013","Building",9,"AHA","Absolute Horizontal Accuracy (90%)",9,100.0
+"AL014","Non-building Structure",6,"AHA","Absolute Horizontal Accuracy (90%)",6,100.0
+"AP030","Road",674,"AHA","Absolute Horizontal Accuracy (90%)",674,100.0
+"AQ040","Bridge",6,"AHA","Absolute Horizontal Accuracy (90%)",6,100.0

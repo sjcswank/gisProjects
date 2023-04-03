@@ -1,0 +1,16 @@
+Metadata not in accordance with the Topographic Data Store (TDS) Metadata specification
+Totals by error type
+
+    (695 occurrences)  Attribute UFI (Unique Entity Identifier): required unique ID attribute has value 'noInformation'
+
+
+
+ Detailed Recap - errors by FCODE and error type
+    (9 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL013 (Building): Attribute UFI (Unique Entity Identifier): required unique ID attribute has value 'noInformation'
+
+    (6 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL014 (Non-building Structure): Attribute UFI (Unique Entity Identifier): required unique ID attribute has value 'noInformation'
+
+    (674 occurrences) Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AP030 (Road): Attribute UFI (Unique Entity Identifier): required unique ID attribute has value 'noInformation'
+
+    (6 occurrences) Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AQ040 (Bridge): Attribute UFI (Unique Entity Identifier): required unique ID attribute has value 'noInformation'
+

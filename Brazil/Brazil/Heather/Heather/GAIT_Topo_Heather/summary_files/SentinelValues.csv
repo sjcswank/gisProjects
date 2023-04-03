@@ -1,0 +1,182 @@
+"Attribute Code","Attribute Name","FCODE","Feature Name","Geometry","Sentinel Value","Sentinel Value Occurrences","Attribute Occurrences This FCODE","Total Attribute Occurrences","Percent Sentinel Values","Cumulative Sentinel Values This Attribute","Cumulative Percent Sentinel Values"
+"ADR","Address","AL013","Building","Surface","noInformation",9,9,9,100.0,9,100.0
+"AHA","Absolute Horizontal Accuracy (90%)","AL014","Non-building Structure","Surface","-999999.000000",6,6,695,0.9,6,0.9
+"AHA","Absolute Horizontal Accuracy (90%)","AP030","Road","Curve","-999999.000000",674,674,695,97.0,680,97.8
+"AHA","Absolute Horizontal Accuracy (90%)","AQ040","Bridge","Curve","-999999.000000",6,6,695,0.9,686,98.7
+"AHA","Absolute Horizontal Accuracy (90%)","AL013","Building","Surface","-999999.000000",9,9,695,1.3,695,100.0
+"AOO","Angle of Orientation","AL014","Non-building Structure","Surface","-999999.000000",6,6,21,28.6,6,28.6
+"AOO","Angle of Orientation","AQ040","Bridge","Curve","-999999.000000",6,6,21,28.6,12,57.1
+"AOO","Angle of Orientation","AL013","Building","Surface","-999999.000000",9,9,21,42.9,21,100.0
+"ARA","Area","AL014","Non-building Structure","Surface","-999999.000000",6,6,695,0.9,6,0.9
+"ARA","Area","AP030","Road","Curve","-999999.000000",674,674,695,97.0,680,97.8
+"ARA","Area","AQ040","Bridge","Curve","-999999.000000",6,6,695,0.9,686,98.7
+"ARA","Area","AL013","Building","Surface","-999999.000000",9,9,695,1.3,695,100.0
+"BCC","Bypass Condition","AQ040","Bridge","Curve","No Information",6,6,6,100.0,6,100.0
+"BNF","Floor Count","AL013","Building","Surface","-999999",9,9,9,100.0,9,100.0
+"BOT","Bridge Opening Type","AQ040","Bridge","Curve","No Information",6,6,6,100.0,6,100.0
+"BRN","Bridge Reference Number","AQ040","Bridge","Curve","noInformation",6,6,6,100.0,6,100.0
+"BSC2","Bridge Structure Type [2]","AQ040","Bridge","Curve","No Information",6,6,6,100.0,6,100.0
+"BSC3","Bridge Structure Type [3]","AQ040","Bridge","Curve","No Information",6,6,6,100.0,6,100.0
+"BSC","Bridge Structure Type","AQ040","Bridge","Curve","No Information",6,6,6,100.0,6,100.0
+"BSM","Mobile Bridge Span","AQ040","Bridge","Curve","No Information",6,6,6,100.0,6,100.0
+"CAA","Controlling Authority","AL014","Non-building Structure","Surface","No Information",6,6,695,0.9,6,0.9
+"CAA","Controlling Authority","AP030","Road","Curve","No Information",674,674,695,97.0,680,97.8
+"CAA","Controlling Authority","AQ040","Bridge","Curve","No Information",6,6,695,0.9,686,98.7
+"CAA","Controlling Authority","AL013","Building","Surface","No Information",9,9,695,1.3,695,100.0
+"CCN","Commercial Copyright Notice","AL014","Non-building Structure","Surface","noInformation",6,6,695,0.9,6,0.9
+"CCN","Commercial Copyright Notice","AP030","Road","Curve","noInformation",674,674,695,97.0,680,97.8
+"CCN","Commercial Copyright Notice","AQ040","Bridge","Curve","noInformation",6,6,695,0.9,686,98.7
+"CCN","Commercial Copyright Notice","AL013","Building","Surface","noInformation",9,9,695,1.3,695,100.0
+"CDR","Commercial Distribution Restriction","AL014","Non-building Structure","Surface","noInformation",6,6,695,0.9,6,0.9
+"CDR","Commercial Distribution Restriction","AP030","Road","Curve","noInformation",674,674,695,97.0,680,97.8
+"CDR","Commercial Distribution Restriction","AQ040","Bridge","Curve","noInformation",6,6,695,0.9,686,98.7
+"CDR","Commercial Distribution Restriction","AL013","Building","Surface","noInformation",9,9,695,1.3,695,100.0
+"CWT","Contained within Tunnel","AP030","Road","Curve","No Information",674,674,674,100.0,674,100.0
+"DEV","Deck Level","AP030","Road","Curve","-999999",674,674,674,100.0,674,100.0
+"DZC","Deck Count","AQ040","Bridge","Curve","-999999",6,6,6,100.0,6,100.0
+"FCO","Feature Configuration","AP030","Road","Curve","No Information",674,674,674,100.0,674,100.0
+"FFN2","Feature Function [2]","AL013","Building","Surface","No Information",9,9,9,100.0,9,100.0
+"FFN3","Feature Function [3]","AL013","Building","Surface","No Information",9,9,9,100.0,9,100.0
+"FSC","Flight Strip Capable","AP030","Road","Curve","No Information",674,674,674,100.0,674,100.0
+"HCA","Horizontal Clearance","AQ040","Bridge","Curve","-999999.000000",6,6,6,100.0,6,100.0
+"HGT","Height Above Surface Level","AL014","Non-building Structure","Surface","-999999.000000",6,6,21,28.6,6,28.6
+"HGT","Height Above Surface Level","AQ040","Bridge","Curve","-999999.000000",6,6,21,28.6,12,57.1
+"HGT","Height Above Surface Level","AL013","Building","Surface","-999999.000000",9,9,21,42.9,21,100.0
+"LC1","Load Class Type 1","AQ040","Bridge","Curve","-999999",6,6,6,100.0,6,100.0
+"LC2","Load Class Type 2","AQ040","Bridge","Curve","-999999",6,6,6,100.0,6,100.0
+"LC3","Load Class Type 3","AQ040","Bridge","Curve","-999999",6,6,6,100.0,6,100.0
+"LC4","Load Class Type 4","AQ040","Bridge","Curve","-999999",6,6,6,100.0,6,100.0
+"LMC","Navigation Landmark","AL014","Non-building Structure","Surface","No Information",6,6,21,28.6,6,28.6
+"LMC","Navigation Landmark","AQ040","Bridge","Curve","No Information",6,6,21,28.6,12,57.1
+"LMC","Navigation Landmark","AL013","Building","Surface","No Information",9,9,21,42.9,21,100.0
+"LOC","Vertical Relative Location","AP030","Road","Curve","No Information",674,674,674,100.0,674,100.0
+"LTN","Track or Lane Count","AP030","Road","Curve","-999999",674,674,674,100.0,674,100.0
+"LZN","Length","AL014","Non-building Structure","Surface","-999999.000000",6,6,695,0.9,6,0.9
+"LZN","Length","AP030","Road","Curve","-999999.000000",674,674,695,97.0,680,97.8
+"LZN","Length","AQ040","Bridge","Curve","-999999.000000",6,6,695,0.9,686,98.7
+"LZN","Length","AL013","Building","Surface","-999999.000000",9,9,695,1.3,695,100.0
+"MES","Median Present","AP030","Road","Curve","No Information",674,674,674,100.0,674,100.0
+"MWG","Centerline Spacing","AP030","Road","Curve","-999999.000000",674,674,674,100.0,674,100.0
+"NOS","Span Count","AQ040","Bridge","Curve","-999999",6,6,6,100.0,6,100.0
+"OHC","Overhead Clearance","AQ040","Bridge","Curve","-999999.000000",6,6,6,100.0,6,100.0
+"ONE","One-way","AP030","Road","Curve","No Information",674,674,674,100.0,674,100.0
+"OTH","Specified Domain Value(s)","AL014","Non-building Structure","Surface","noInformation",6,6,695,0.9,6,0.9
+"OTH","Specified Domain Value(s)","AP030","Road","Curve","noInformation",674,674,695,97.0,680,97.8
+"OTH","Specified Domain Value(s)","AQ040","Bridge","Curve","noInformation",6,6,695,0.9,686,98.7
+"OTH","Specified Domain Value(s)","AL013","Building","Surface","noInformation",9,9,695,1.3,695,100.0
+"PCF","Physical Condition","AL014","Non-building Structure","Surface","No Information",6,6,695,0.9,6,0.9
+"PCF","Physical Condition","AP030","Road","Curve","No Information",674,674,695,97.0,680,97.8
+"PCF","Physical Condition","AQ040","Bridge","Curve","No Information",6,6,695,0.9,686,98.7
+"PCF","Physical Condition","AL013","Building","Surface","No Information",9,9,695,1.3,695,100.0
+"RFD","Roofed","AQ040","Bridge","Curve","No Information",6,6,6,100.0,6,100.0
+"RIN_ROI2","Route Identification [2] <route designation type>","AP030","Road","Curve","No Information",674,674,674,100.0,674,100.0
+"RIN_ROI3","Route Identification [3] <route designation type>","AP030","Road","Curve","No Information",674,674,674,100.0,674,100.0
+"RIN_ROI","Route Identification <route designation type>","AP030","Road","Curve","No Information",674,674,674,100.0,674,100.0
+"RIN_RTN2","Route Identification [2] <route designation>","AP030","Road","Curve","noInformation",674,674,674,100.0,674,100.0
+"RIN_RTN3","Route Identification [3] <route designation>","AP030","Road","Curve","noInformation",674,674,674,100.0,674,100.0
+"RIN_RTN","Route Identification <route designation>","AP030","Road","Curve","noInformation",674,674,674,100.0,674,100.0
+"RLE","Relative Level","AP030","Road","Curve","No Information",674,674,683,98.7,674,98.7
+"RLE","Relative Level","AL013","Building","Surface","No Information",9,9,683,1.3,683,100.0
+"RMWL","Route Median Width <lower value>","AP030","Road","Curve","-999999.000000",674,674,674,100.0,674,100.0
+"RMWU","Route Median Width <upper value>","AP030","Road","Curve","-999999.000000",674,674,674,100.0,674,100.0
+"ROR","Road Interchange Ramp","AP030","Road","Curve","No Information",674,674,674,100.0,674,100.0
+"RTY","Roadway Type","AP030","Road","Curve","No Information",674,674,674,100.0,674,100.0
+"SBB","Supported by Bridge Span","AP030","Road","Curve","No Information",674,674,674,100.0,674,100.0
+"SEP","Divided","AP030","Road","Curve","No Information",674,674,674,100.0,674,100.0
+"SGCL","Surface Slope <lower value>","AP030","Road","Curve","-999999.000000",674,674,674,100.0,674,100.0
+"SGCU","Surface Slope <upper value>","AP030","Road","Curve","-999999.000000",674,674,674,100.0,674,100.0
+"SPM","Speed Limit (KPH)","AP030","Road","Curve","-999999.000000",674,674,674,100.0,674,100.0
+"SSR2","Roof Shape [2]","AL013","Building","Surface","No Information",9,9,9,100.0,9,100.0
+"SSR3","Roof Shape [3]","AL013","Building","Surface","No Information",9,9,9,100.0,9,100.0
+"SSR","Roof Shape","AL013","Building","Surface","No Information",9,9,9,100.0,9,100.0
+"THR","Through Route","AP030","Road","Curve","No Information",674,674,674,100.0,674,100.0
+"TRS2","Transportation System Type [2]","AQ040","Bridge","Curve","No Information",6,6,6,100.0,6,100.0
+"TRS3","Transportation System Type [3]","AQ040","Bridge","Curve","No Information",6,6,6,100.0,6,100.0
+"TRS","Transportation System Type","AQ040","Bridge","Curve","No Information",6,6,6,100.0,6,100.0
+"UBC","Underbridge Clearance","AQ040","Bridge","Curve","-999999.000000",6,6,6,100.0,6,100.0
+"VCM2","Vertical Construction Material [2]","AQ040","Bridge","Curve","No Information",6,6,15,40.0,6,40.0
+"VCM2","Vertical Construction Material [2]","AL013","Building","Surface","No Information",9,9,15,60.0,15,100.0
+"VCM3","Vertical Construction Material [3]","AQ040","Bridge","Curve","No Information",6,6,15,40.0,6,40.0
+"VCM3","Vertical Construction Material [3]","AL013","Building","Surface","No Information",9,9,15,60.0,15,100.0
+"VCM","Vertical Construction Material","AQ040","Bridge","Curve","No Information",6,6,15,40.0,6,40.0
+"VCM","Vertical Construction Material","AL013","Building","Surface","No Information",9,9,15,60.0,15,100.0
+"VCS","Vertical Clearance, Safe","AQ040","Bridge","Curve","-999999.000000",6,6,6,100.0,6,100.0
+"VOI","Vertical Obstruction Identifier","AL014","Non-building Structure","Surface","noInformation",6,6,21,28.6,6,28.6
+"VOI","Vertical Obstruction Identifier","AQ040","Bridge","Curve","noInformation",6,6,21,28.6,12,57.1
+"VOI","Vertical Obstruction Identifier","AL013","Building","Surface","noInformation",9,9,21,42.9,21,100.0
+"WID","Width","AL014","Non-building Structure","Surface","-999999.000000",6,6,695,0.9,6,0.9
+"WID","Width","AP030","Road","Curve","-999999.000000",674,674,695,97.0,680,97.8
+"WID","Width","AQ040","Bridge","Curve","-999999.000000",6,6,695,0.9,686,98.7
+"WID","Width","AL013","Building","Surface","-999999.000000",9,9,695,1.3,695,100.0
+"ZI001_SDP","Source Information : Source Description","AL014","Non-building Structure","Surface","noInformation",6,6,695,0.9,6,0.9
+"ZI001_SDP","Source Information : Source Description","AP030","Road","Curve","noInformation",674,674,695,97.0,680,97.8
+"ZI001_SDP","Source Information : Source Description","AQ040","Bridge","Curve","noInformation",6,6,695,0.9,686,98.7
+"ZI001_SDP","Source Information : Source Description","AL013","Building","Surface","noInformation",9,9,695,1.3,695,100.0
+"ZI001_SDV","Source Information : Source Date and Time","AL014","Non-building Structure","Surface","noInformation",6,6,695,0.9,6,0.9
+"ZI001_SDV","Source Information : Source Date and Time","AP030","Road","Curve","noInformation",674,674,695,97.0,680,97.8
+"ZI001_SDV","Source Information : Source Date and Time","AQ040","Bridge","Curve","noInformation",6,6,695,0.9,686,98.7
+"ZI001_SDV","Source Information : Source Date and Time","AL013","Building","Surface","noInformation",9,9,695,1.3,695,100.0
+"ZI001_VSD","Source Information : Vertical Source Date and Time","AL014","Non-building Structure","Surface","noInformation",6,6,695,0.9,6,0.9
+"ZI001_VSD","Source Information : Vertical Source Date and Time","AP030","Road","Curve","noInformation",674,674,695,97.0,680,97.8
+"ZI001_VSD","Source Information : Vertical Source Date and Time","AQ040","Bridge","Curve","noInformation",6,6,695,0.9,686,98.7
+"ZI001_VSD","Source Information : Vertical Source Date and Time","AL013","Building","Surface","noInformation",9,9,695,1.3,695,100.0
+"ZI001_VSN","Source Information : Vertical Source Description","AL014","Non-building Structure","Surface","noInformation",6,6,695,0.9,6,0.9
+"ZI001_VSN","Source Information : Vertical Source Description","AP030","Road","Curve","noInformation",674,674,695,97.0,680,97.8
+"ZI001_VSN","Source Information : Vertical Source Description","AQ040","Bridge","Curve","noInformation",6,6,695,0.9,686,98.7
+"ZI001_VSN","Source Information : Vertical Source Description","AL013","Building","Surface","noInformation",9,9,695,1.3,695,100.0
+"ZI005_FNA","Geographic Name Information : Full Name","AL014","Non-building Structure","Surface","noInformation",6,6,695,0.9,6,0.9
+"ZI005_FNA","Geographic Name Information : Full Name","AP030","Road","Curve","noInformation",674,674,695,97.0,680,97.8
+"ZI005_FNA","Geographic Name Information : Full Name","AQ040","Bridge","Curve","noInformation",6,6,695,0.9,686,98.7
+"ZI005_FNA","Geographic Name Information : Full Name","AL013","Building","Surface","noInformation",9,9,695,1.3,695,100.0
+"ZI005_NFN","Geographic Name Information : Name Identifier","AL014","Non-building Structure","Surface","noInformation",6,6,695,0.9,6,0.9
+"ZI005_NFN","Geographic Name Information : Name Identifier","AP030","Road","Curve","noInformation",674,674,695,97.0,680,97.8
+"ZI005_NFN","Geographic Name Information : Name Identifier","AQ040","Bridge","Curve","noInformation",6,6,695,0.9,686,98.7
+"ZI005_NFN","Geographic Name Information : Name Identifier","AL013","Building","Surface","noInformation",9,9,695,1.3,695,100.0
+"ZI006_MEM","Note : Memorandum","AL014","Non-building Structure","Surface","noInformation",6,6,695,0.9,6,0.9
+"ZI006_MEM","Note : Memorandum","AP030","Road","Curve","noInformation",674,674,695,97.0,680,97.8
+"ZI006_MEM","Note : Memorandum","AQ040","Bridge","Curve","noInformation",6,6,695,0.9,686,98.7
+"ZI006_MEM","Note : Memorandum","AL013","Building","Surface","noInformation",9,9,695,1.3,695,100.0
+"ZI014_PBY2","Manufacturing Information : By-product [2]","AL014","Non-building Structure","Surface","No Information",6,6,15,40.0,6,40.0
+"ZI014_PBY2","Manufacturing Information : By-product [2]","AL013","Building","Surface","No Information",9,9,15,60.0,15,100.0
+"ZI014_PBY3","Manufacturing Information : By-product [3]","AL014","Non-building Structure","Surface","No Information",6,6,15,40.0,6,40.0
+"ZI014_PBY3","Manufacturing Information : By-product [3]","AL013","Building","Surface","No Information",9,9,15,60.0,15,100.0
+"ZI014_PBY","Manufacturing Information : By-product","AL014","Non-building Structure","Surface","No Information",6,6,15,40.0,6,40.0
+"ZI014_PBY","Manufacturing Information : By-product","AL013","Building","Surface","No Information",9,9,15,60.0,15,100.0
+"ZI014_PPO2","Manufacturing Information : Product [2]","AL014","Non-building Structure","Surface","No Information",6,6,15,40.0,6,40.0
+"ZI014_PPO2","Manufacturing Information : Product [2]","AL013","Building","Surface","No Information",9,9,15,60.0,15,100.0
+"ZI014_PPO3","Manufacturing Information : Product [3]","AL014","Non-building Structure","Surface","No Information",6,6,15,40.0,6,40.0
+"ZI014_PPO3","Manufacturing Information : Product [3]","AL013","Building","Surface","No Information",9,9,15,60.0,15,100.0
+"ZI014_PPO","Manufacturing Information : Product","AL014","Non-building Structure","Surface","No Information",6,6,15,40.0,6,40.0
+"ZI014_PPO","Manufacturing Information : Product","AL013","Building","Surface","No Information",9,9,15,60.0,15,100.0
+"ZI014_PRW2","Manufacturing Information : Raw Material [2]","AL014","Non-building Structure","Surface","No Information",6,6,15,40.0,6,40.0
+"ZI014_PRW2","Manufacturing Information : Raw Material [2]","AL013","Building","Surface","No Information",9,9,15,60.0,15,100.0
+"ZI014_PRW3","Manufacturing Information : Raw Material [3]","AL014","Non-building Structure","Surface","No Information",6,6,15,40.0,6,40.0
+"ZI014_PRW3","Manufacturing Information : Raw Material [3]","AL013","Building","Surface","No Information",9,9,15,60.0,15,100.0
+"ZI014_PRW","Manufacturing Information : Raw Material","AL014","Non-building Structure","Surface","No Information",6,6,15,40.0,6,40.0
+"ZI014_PRW","Manufacturing Information : Raw Material","AL013","Building","Surface","No Information",9,9,15,60.0,15,100.0
+"ZI016_ROC","Route Pavement Information : Route Surface Composition","AP030","Road","Curve","No Information",172,674,674,25.5,172,25.5
+"ZI016_WD1","Route Pavement Information : Route Minimum Travelled Way Width","AP030","Road","Curve","-999999.000000",674,674,674,100.0,674,100.0
+"ZI016_WTC","Route Pavement Information : Road Weather Restriction","AP030","Road","Curve","No Information",674,674,674,100.0,674,100.0
+"ZI018_WIT","Wireless Telecommunication Information : Wireless Telecommunication Type","AL013","Building","Surface","No Information",9,9,9,100.0,9,100.0
+"ZI020_GE4","(Location Country) Designation : GENC Short URN-based Identifier","AL014","Non-building Structure","Surface","No Information",6,6,695,0.9,6,0.9
+"ZI020_GE4","(Location Country) Designation : GENC Short URN-based Identifier","AP030","Road","Curve","No Information",674,674,695,97.0,680,97.8
+"ZI020_GE4","(Location Country) Designation : GENC Short URN-based Identifier","AQ040","Bridge","Curve","No Information",6,6,695,0.9,686,98.7
+"ZI020_GE4","(Location Country) Designation : GENC Short URN-based Identifier","AL013","Building","Surface","No Information",9,9,695,1.3,695,100.0
+"ZI026_CTUL","Feature Metadata : Cartographic Usability Range <lower value>","AL014","Non-building Structure","Surface","-999999",6,6,695,0.9,6,0.9
+"ZI026_CTUL","Feature Metadata : Cartographic Usability Range <lower value>","AP030","Road","Curve","-999999",674,674,695,97.0,680,97.8
+"ZI026_CTUL","Feature Metadata : Cartographic Usability Range <lower value>","AQ040","Bridge","Curve","-999999",6,6,695,0.9,686,98.7
+"ZI026_CTUL","Feature Metadata : Cartographic Usability Range <lower value>","AL013","Building","Surface","-999999",9,9,695,1.3,695,100.0
+"ZI026_CTUU","Feature Metadata : Cartographic Usability Range <upper value>","AL014","Non-building Structure","Surface","-999999",6,6,695,0.9,6,0.9
+"ZI026_CTUU","Feature Metadata : Cartographic Usability Range <upper value>","AP030","Road","Curve","-999999",674,674,695,97.0,680,97.8
+"ZI026_CTUU","Feature Metadata : Cartographic Usability Range <upper value>","AQ040","Bridge","Curve","-999999",6,6,695,0.9,686,98.7
+"ZI026_CTUU","Feature Metadata : Cartographic Usability Range <upper value>","AL013","Building","Surface","-999999",9,9,695,1.3,695,100.0
+"ZI026_SUR","Feature Metadata : Survey Coverage Category","AP030","Road","Curve","No Information",674,674,674,100.0,674,100.0
+"ZI037_REL","Religious Information : Religious Designation","AL013","Building","Surface","No Information",9,9,9,100.0,9,100.0
+"ZI037_RFA","Religious Information : Religious Facility Type","AL013","Building","Surface","No Information",9,9,9,100.0,9,100.0
+"ZSAX_RX0","Restriction Information : Security Attributes Group <resource dissemination controls>","AL014","Non-building Structure","Surface","noInformation",6,6,695,0.9,6,0.9
+"ZSAX_RX0","Restriction Information : Security Attributes Group <resource dissemination controls>","AP030","Road","Curve","noInformation",674,674,695,97.0,680,97.8
+"ZSAX_RX0","Restriction Information : Security Attributes Group <resource dissemination controls>","AQ040","Bridge","Curve","noInformation",6,6,695,0.9,686,98.7
+"ZSAX_RX0","Restriction Information : Security Attributes Group <resource dissemination controls>","AL013","Building","Surface","noInformation",9,9,695,1.3,695,100.0
+"ZVH","Highest Elevation","AL014","Non-building Structure","Surface","-999999.000000",6,6,21,28.6,6,28.6
+"ZVH","Highest Elevation","AQ040","Bridge","Curve","-999999.000000",6,6,21,28.6,12,57.1
+"ZVH","Highest Elevation","AL013","Building","Surface","-999999.000000",9,9,21,42.9,21,100.0

@@ -1,0 +1,13 @@
+Circular curve with 1 segment found for FID 445 in Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV
+Circular curve with 1 segment found for FID 456 in Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV
+Circular curve with 1 segment found for FID 457 in Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV
+Circular curve with 1 segment found for FID 458 in Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV
+Circular curve with 1 segment found for FID 459 in Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV
+Circular curve with 1 segment found for FID 460 in Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV
+Circular curve with 1 segment found for FID 461 in Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV
+Circular curve with 1 segment found for FID 462 in Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV
+Circular curve with 1 segment found for FID 568 in Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV
+Circular curve with 1 segment found for FID 569 in Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV
+Circular curve with 1 segment found for FID 570 in Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV
+Circular curve with 1 segment found for FID 571 in Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV
+

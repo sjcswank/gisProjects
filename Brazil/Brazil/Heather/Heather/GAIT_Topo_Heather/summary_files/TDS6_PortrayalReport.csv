@@ -1,0 +1,42 @@
+FCODE,Feature,Geometry,# Applicable Rules,Features In Project,Portrayed Features,Percent Portrayed
+AQ040,Bridge,Line,4,6,6,100.00
+AL013,Building,Area,14,9,9,100.00
+AL014,Non-building Structure,Area,2,6,6,100.00
+AP030,Road,Line,13,674,674,100.00
+
+
+
+FCODE,Feature Name,Geometry,Rule ID,Rule Label,Rule application attempts,# Features Passing this Rule
+AQ040,Bridge,Curve,PS-00130,Bridge / fixed / non-pedestrian,6,6
+AQ040,Bridge,Curve,PS-00131,Bridge / non-fixed / non-pedestrian,6,0
+AQ040,Bridge,Curve,PS-00132,Bridge / pedestrian,6,0
+AQ040,Bridge,Curve,PS-00512,Bridge / Vertical Obstruction / single / from special note,6,0
+AL013,Building,Surface,PS-00436,Building / non-obstruction / intact / generic or important,9,4
+AL013,Building,Surface,PS-00404,Building / non-obstruction / intact / christian,9,0
+AL013,Building,Surface,PS-00402,Building / non-obstruction / intact / islam,9,0
+AL013,Building,Surface,PS-00405,Building / non-obstruction / intact / pagoda,9,0
+AL013,Building,Surface,PS-00407,Building / non-obstruction / intact / stupa,9,0
+AL013,Building,Surface,PS-00403,Building / non-obstruction / intact / judaism,9,0
+AL013,Building,Surface,PS-00406,Building / non-obstruction / intact / temple,9,0
+AL013,Building,Surface,PS-00646,Building / non-obstruction / intact / house of worship,9,2
+AL013,Building,Surface,PS-00401,Building / non-obstruction / intact / school,9,2
+AL013,Building,Surface,PS-00400,Building / non-obstruction / intact / hospital,9,1
+AL013,Building,Surface,PS-00477,Building / non-obstruction / intact / health office,9,0
+AL013,Building,Surface,PS-00475,Building / non-obstruction / intact / diplomatic,9,0
+AL013,Building,Surface,PS-00399,Building / non-obstruction / not intact,9,0
+AL013,Building,Surface,PS-00512,Building / Vertical Obstruction / single (from GC-9983),9,0
+AL014,Non-building Structure,Surface,PS-00848,Non-building Structure / non-obstruction / from GC-9985,6,6
+AL014,Non-building Structure,Surface,PS-00512,Non-building Structure / Vertical Obstruction / single / from GC-9985,6,0
+AP030,Road,Curve,PS-00877,Road / intact / divided / very wide median,674,0
+AP030,Road,Curve,PS-00570,Road / intact / divided / wide median,674,0
+AP030,Road,Curve,PS-00369,Road / intact / divided / narrow median,674,0
+AP030,Road,Curve,PS-00368,Road / intact / all weather / hard surface / no median / >= 4 lanes,674,0
+AP030,Road,Curve,PS-00720,Road / intact / all weather / hard surface / no median / 2 or 3 lanes,674,0
+AP030,Road,Curve,PS-00367,Road / intact / all weather / hard surface / no median / 1 lane,674,0
+AP030,Road,Curve,PS-00371,Road / intact / all weather / loose surface / no median / >= 4 lanes,674,0
+AP030,Road,Curve,PS-00721,Road / intact / all weather / loose surface / no median / 2 or 3 lanes,674,0
+AP030,Road,Curve,PS-00370,Road / intact / all weather / loose surface / no median / 1 lane,674,0
+AP030,Road,Curve,PS-00366,Road / intact / fair weather,674,674
+AP030,Road,Curve,PS-00573,Road / intact / street,674,0
+AP030,Road,Curve,PS-00572,Road / not intact / median,674,0
+AP030,Road,Curve,PS-00574,Road / not intact / no median,674,0

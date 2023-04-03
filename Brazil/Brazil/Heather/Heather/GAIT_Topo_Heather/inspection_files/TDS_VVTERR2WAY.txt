@@ -1,0 +1,14 @@
+UNIQUE_CHECKS 1
+VVTERR2WAY 1
+VVTERR2WAY 1 C_PRIMARY C_ALL_POFE off
+VVTERR2WAY 1 C_PRIMARY C_SOME_POFE on
+VVTERR2WAY 1 C_SECONDARY C_ALL_LINE off
+VVTERR2WAY 1 C_SECONDARY C_SOME_LINE on
+VVTERR2WAY 1 C_SECONDARY C_ALL_AREA off
+VVTERR2WAY 1 C_SECONDARY C_SOME_AREA on
+VVTERR2WAY 1 ANNOTATION "Illogical Attribute/Enumeration (IAE): Line Road with "ZI016_WTC" = "No Information" and "ZI016_ROC" = "Stabilized Earth" or "ZI016_ROC" = "Flexible Pavement" or "ZI016_ROC" = "Rigid Pavement""
+ATTRATTRATTR
+VVTERR2WAY 1 PRIMARY Road Route_Pavement_Information__Road_Weather_Restriction LABEL No_Information on C_LINE
+VVTERR2WAY 1 SECONDARY Road Route_Pavement_Information__Route_Surface_Composition LABEL Stabilized_Earth on C_LINE
+VVTERR2WAY 1 SECONDARY Road Route_Pavement_Information__Route_Surface_Composition LABEL Flexible_Pavement on C_LINE
+VVTERR2WAY 1 SECONDARY Road Route_Pavement_Information__Route_Surface_Composition LABEL Rigid_Pavement on C_LINE

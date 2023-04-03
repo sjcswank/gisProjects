@@ -1,0 +1,535 @@
+Missing Attribute Field Or Value
+(Cross-check with: 1) Unrecognized Column Names (listed as Input Data Anomalies);
+2) Blank Attribute errors; and 3) Non Domain Specific Pick-list errors)
+
+-----------
+  The following pertain to Curve feature data:
+
+(674 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AP030 Road
+   Required Attribute BEN Basic Encyclopedia (BE) Number
+Feature identifiers:  22, 23, 24, 25, 27, 28, 29, 31, 32, 33,
+34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+44, 45, 46, 47, 48, 49, 50, 51, 52, 53,
+54, 56, 57, 58, 59, 60, 61, 62, 63, 64,
+65, 66, 67, 69, 70, 71, 73, 74, 75, 76
+(See report in file C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\GAIT_Topo_Heather\attribution_errors\AttrErr_FeatureID.txt for more feature identifiers)
+
+(674 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AP030 Road
+   Required Attribute SAX_RS1 Security Attributes Group <resource classification reason>
+Feature identifiers:  22, 23, 24, 25, 27, 28, 29, 31, 32, 33,
+34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+44, 45, 46, 47, 48, 49, 50, 51, 52, 53,
+54, 56, 57, 58, 59, 60, 61, 62, 63, 64,
+65, 66, 67, 69, 70, 71, 73, 74, 75, 76
+(See report in file C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\GAIT_Topo_Heather\attribution_errors\AttrErr_FeatureID.txt for more feature identifiers)
+
+(674 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AP030 Road
+   Required Attribute SAX_RS2 Security Attributes Group <resource classified by>
+Feature identifiers:  22, 23, 24, 25, 27, 28, 29, 31, 32, 33,
+34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+44, 45, 46, 47, 48, 49, 50, 51, 52, 53,
+54, 56, 57, 58, 59, 60, 61, 62, 63, 64,
+65, 66, 67, 69, 70, 71, 73, 74, 75, 76
+(See report in file C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\GAIT_Topo_Heather\attribution_errors\AttrErr_FeatureID.txt for more feature identifiers)
+
+(674 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AP030 Road
+   Required Attribute SAX_RS3 Security Attributes Group <resource date of exempted source>
+Feature identifiers:  22, 23, 24, 25, 27, 28, 29, 31, 32, 33,
+34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+44, 45, 46, 47, 48, 49, 50, 51, 52, 53,
+54, 56, 57, 58, 59, 60, 61, 62, 63, 64,
+65, 66, 67, 69, 70, 71, 73, 74, 75, 76
+(See report in file C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\GAIT_Topo_Heather\attribution_errors\AttrErr_FeatureID.txt for more feature identifiers)
+
+(674 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AP030 Road
+   Required Attribute SAX_RS4 Security Attributes Group <resource declassification date>
+Feature identifiers:  22, 23, 24, 25, 27, 28, 29, 31, 32, 33,
+34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+44, 45, 46, 47, 48, 49, 50, 51, 52, 53,
+54, 56, 57, 58, 59, 60, 61, 62, 63, 64,
+65, 66, 67, 69, 70, 71, 73, 74, 75, 76
+(See report in file C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\GAIT_Topo_Heather\attribution_errors\AttrErr_FeatureID.txt for more feature identifiers)
+
+(674 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AP030 Road
+   Required Attribute SAX_RS5 Security Attributes Group <resource declassification event>
+Feature identifiers:  22, 23, 24, 25, 27, 28, 29, 31, 32, 33,
+34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+44, 45, 46, 47, 48, 49, 50, 51, 52, 53,
+54, 56, 57, 58, 59, 60, 61, 62, 63, 64,
+65, 66, 67, 69, 70, 71, 73, 74, 75, 76
+(See report in file C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\GAIT_Topo_Heather\attribution_errors\AttrErr_FeatureID.txt for more feature identifiers)
+
+(674 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AP030 Road
+   Required Attribute SAX_RS6 Security Attributes Group <resource declassification exception>
+Feature identifiers:  22, 23, 24, 25, 27, 28, 29, 31, 32, 33,
+34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+44, 45, 46, 47, 48, 49, 50, 51, 52, 53,
+54, 56, 57, 58, 59, 60, 61, 62, 63, 64,
+65, 66, 67, 69, 70, 71, 73, 74, 75, 76
+(See report in file C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\GAIT_Topo_Heather\attribution_errors\AttrErr_FeatureID.txt for more feature identifiers)
+
+(674 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AP030 Road
+   Required Attribute SAX_RS8 Security Attributes Group <resource derivatively classified by>
+Feature identifiers:  22, 23, 24, 25, 27, 28, 29, 31, 32, 33,
+34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+44, 45, 46, 47, 48, 49, 50, 51, 52, 53,
+54, 56, 57, 58, 59, 60, 61, 62, 63, 64,
+65, 66, 67, 69, 70, 71, 73, 74, 75, 76
+(See report in file C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\GAIT_Topo_Heather\attribution_errors\AttrErr_FeatureID.txt for more feature identifiers)
+
+(674 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AP030 Road
+   Required Attribute SAX_RS9 Security Attributes Group <resource derived from>
+Feature identifiers:  22, 23, 24, 25, 27, 28, 29, 31, 32, 33,
+34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+44, 45, 46, 47, 48, 49, 50, 51, 52, 53,
+54, 56, 57, 58, 59, 60, 61, 62, 63, 64,
+65, 66, 67, 69, 70, 71, 73, 74, 75, 76
+(See report in file C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\GAIT_Topo_Heather\attribution_errors\AttrErr_FeatureID.txt for more feature identifiers)
+
+(674 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AP030 Road
+   Required Attribute SAX_RX1 Security Attributes Group <resource foreign government information (open source)>
+Feature identifiers:  22, 23, 24, 25, 27, 28, 29, 31, 32, 33,
+34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+44, 45, 46, 47, 48, 49, 50, 51, 52, 53,
+54, 56, 57, 58, 59, 60, 61, 62, 63, 64,
+65, 66, 67, 69, 70, 71, 73, 74, 75, 76
+(See report in file C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\GAIT_Topo_Heather\attribution_errors\AttrErr_FeatureID.txt for more feature identifiers)
+
+(674 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AP030 Road
+   Required Attribute SAX_RX2 Security Attributes Group <resource foreign government information (protected source)>
+Feature identifiers:  22, 23, 24, 25, 27, 28, 29, 31, 32, 33,
+34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+44, 45, 46, 47, 48, 49, 50, 51, 52, 53,
+54, 56, 57, 58, 59, 60, 61, 62, 63, 64,
+65, 66, 67, 69, 70, 71, 73, 74, 75, 76
+(See report in file C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\GAIT_Topo_Heather\attribution_errors\AttrErr_FeatureID.txt for more feature identifiers)
+
+(674 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AP030 Road
+   Required Attribute SAX_RX5 Security Attributes Group <resource releasable to>
+Feature identifiers:  22, 23, 24, 25, 27, 28, 29, 31, 32, 33,
+34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+44, 45, 46, 47, 48, 49, 50, 51, 52, 53,
+54, 56, 57, 58, 59, 60, 61, 62, 63, 64,
+65, 66, 67, 69, 70, 71, 73, 74, 75, 76
+(See report in file C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\GAIT_Topo_Heather\attribution_errors\AttrErr_FeatureID.txt for more feature identifiers)
+
+(674 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AP030 Road
+   Required Attribute SAX_RX6 Security Attributes Group <resource special-access-required program identifier>
+Feature identifiers:  22, 23, 24, 25, 27, 28, 29, 31, 32, 33,
+34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+44, 45, 46, 47, 48, 49, 50, 51, 52, 53,
+54, 56, 57, 58, 59, 60, 61, 62, 63, 64,
+65, 66, 67, 69, 70, 71, 73, 74, 75, 76
+(See report in file C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\GAIT_Topo_Heather\attribution_errors\AttrErr_FeatureID.txt for more feature identifiers)
+
+(674 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AP030 Road
+   Required Attribute SAX_RX7 Security Attributes Group <resource SCI controls>
+Feature identifiers:  22, 23, 24, 25, 27, 28, 29, 31, 32, 33,
+34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+44, 45, 46, 47, 48, 49, 50, 51, 52, 53,
+54, 56, 57, 58, 59, 60, 61, 62, 63, 64,
+65, 66, 67, 69, 70, 71, 73, 74, 75, 76
+(See report in file C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\GAIT_Topo_Heather\attribution_errors\AttrErr_FeatureID.txt for more feature identifiers)
+
+(674 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AP030 Road
+   Required Attribute SAX_RX8 Security Attributes Group <resource type of exempted source>
+Feature identifiers:  22, 23, 24, 25, 27, 28, 29, 31, 32, 33,
+34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+44, 45, 46, 47, 48, 49, 50, 51, 52, 53,
+54, 56, 57, 58, 59, 60, 61, 62, 63, 64,
+65, 66, 67, 69, 70, 71, 73, 74, 75, 76
+(See report in file C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\GAIT_Topo_Heather\attribution_errors\AttrErr_FeatureID.txt for more feature identifiers)
+
+(674 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AP030 Road
+   Required Attribute SAX_RX9 Security Attributes Group <resource compilation reason>
+Feature identifiers:  22, 23, 24, 25, 27, 28, 29, 31, 32, 33,
+34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+44, 45, 46, 47, 48, 49, 50, 51, 52, 53,
+54, 56, 57, 58, 59, 60, 61, 62, 63, 64,
+65, 66, 67, 69, 70, 71, 73, 74, 75, 76
+(See report in file C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\GAIT_Topo_Heather\attribution_errors\AttrErr_FeatureID.txt for more feature identifiers)
+
+(674 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AP030 Road
+   Required Attribute SAX_RY0 Security Attributes Group <resource display only to>
+Feature identifiers:  22, 23, 24, 25, 27, 28, 29, 31, 32, 33,
+34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+44, 45, 46, 47, 48, 49, 50, 51, 52, 53,
+54, 56, 57, 58, 59, 60, 61, 62, 63, 64,
+65, 66, 67, 69, 70, 71, 73, 74, 75, 76
+(See report in file C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\GAIT_Topo_Heather\attribution_errors\AttrErr_FeatureID.txt for more feature identifiers)
+
+(674 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AP030 Road
+   Required Attribute SAX_RY1 Security Attributes Group <resource non-US controls>
+Feature identifiers:  22, 23, 24, 25, 27, 28, 29, 31, 32, 33,
+34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+44, 45, 46, 47, 48, 49, 50, 51, 52, 53,
+54, 56, 57, 58, 59, 60, 61, 62, 63, 64,
+65, 66, 67, 69, 70, 71, 73, 74, 75, 76
+(See report in file C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\GAIT_Topo_Heather\attribution_errors\AttrErr_FeatureID.txt for more feature identifiers)
+
+(674 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AP030 Road
+   Required Attribute SAX_RY2 Security Attributes Group <resource atomic energy markings>
+Feature identifiers:  22, 23, 24, 25, 27, 28, 29, 31, 32, 33,
+34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+44, 45, 46, 47, 48, 49, 50, 51, 52, 53,
+54, 56, 57, 58, 59, 60, 61, 62, 63, 64,
+65, 66, 67, 69, 70, 71, 73, 74, 75, 76
+(See report in file C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\GAIT_Topo_Heather\attribution_errors\AttrErr_FeatureID.txt for more feature identifiers)
+
+(674 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AP030 Road
+   Required Attribute WD2 Route Total Usable Width
+Feature identifiers:  22, 23, 24, 25, 27, 28, 29, 31, 32, 33,
+34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+44, 45, 46, 47, 48, 49, 50, 51, 52, 53,
+54, 56, 57, 58, 59, 60, 61, 62, 63, 64,
+65, 66, 67, 69, 70, 71, 73, 74, 75, 76
+(See report in file C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\GAIT_Topo_Heather\attribution_errors\AttrErr_FeatureID.txt for more feature identifiers)
+
+(674 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AP030 Road
+   Required Attribute WT2 Width of Second Travelled Way
+Feature identifiers:  22, 23, 24, 25, 27, 28, 29, 31, 32, 33,
+34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+44, 45, 46, 47, 48, 49, 50, 51, 52, 53,
+54, 56, 57, 58, 59, 60, 61, 62, 63, 64,
+65, 66, 67, 69, 70, 71, 73, 74, 75, 76
+(See report in file C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\GAIT_Topo_Heather\attribution_errors\AttrErr_FeatureID.txt for more feature identifiers)
+
+(674 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AP030 Road
+   Required Attribute ZI001_SRT Source Information : Source Type
+Feature identifiers:  22, 23, 24, 25, 27, 28, 29, 31, 32, 33,
+34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+44, 45, 46, 47, 48, 49, 50, 51, 52, 53,
+54, 56, 57, 58, 59, 60, 61, 62, 63, 64,
+65, 66, 67, 69, 70, 71, 73, 74, 75, 76
+(See report in file C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\GAIT_Topo_Heather\attribution_errors\AttrErr_FeatureID.txt for more feature identifiers)
+
+(674 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AP030 Road
+   Required Attribute ZI001_VSC Source Information : Vertical Source Category
+Feature identifiers:  22, 23, 24, 25, 27, 28, 29, 31, 32, 33,
+34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+44, 45, 46, 47, 48, 49, 50, 51, 52, 53,
+54, 56, 57, 58, 59, 60, 61, 62, 63, 64,
+65, 66, 67, 69, 70, 71, 73, 74, 75, 76
+(See report in file C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\GAIT_Topo_Heather\attribution_errors\AttrErr_FeatureID.txt for more feature identifiers)
+
+(674 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AP030 Road
+   Required Attribute ZI004_RCG Feature Metadata : Process Step Information : Resource Content Originator
+Feature identifiers:  22, 23, 24, 25, 27, 28, 29, 31, 32, 33,
+34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+44, 45, 46, 47, 48, 49, 50, 51, 52, 53,
+54, 56, 57, 58, 59, 60, 61, 62, 63, 64,
+65, 66, 67, 69, 70, 71, 73, 74, 75, 76
+(See report in file C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\GAIT_Topo_Heather\attribution_errors\AttrErr_FeatureID.txt for more feature identifiers)
+
+(6 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AQ040 Bridge
+   Required Attribute AWP Aeronautical Obstacle Light Present
+Feature identifiers:  119, 794, 795, 796, 801, 804
+
+(6 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AQ040 Bridge
+   Required Attribute BEN Basic Encyclopedia (BE) Number
+Feature identifiers:  119, 794, 795, 796, 801, 804
+
+(6 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AQ040 Bridge
+   Required Attribute SAX_RS1 Security Attributes Group <resource classification reason>
+Feature identifiers:  119, 794, 795, 796, 801, 804
+
+(6 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AQ040 Bridge
+   Required Attribute SAX_RS2 Security Attributes Group <resource classified by>
+Feature identifiers:  119, 794, 795, 796, 801, 804
+
+(6 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AQ040 Bridge
+   Required Attribute SAX_RS3 Security Attributes Group <resource date of exempted source>
+Feature identifiers:  119, 794, 795, 796, 801, 804
+
+(6 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AQ040 Bridge
+   Required Attribute SAX_RS4 Security Attributes Group <resource declassification date>
+Feature identifiers:  119, 794, 795, 796, 801, 804
+
+(6 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AQ040 Bridge
+   Required Attribute SAX_RS5 Security Attributes Group <resource declassification event>
+Feature identifiers:  119, 794, 795, 796, 801, 804
+
+(6 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AQ040 Bridge
+   Required Attribute SAX_RS6 Security Attributes Group <resource declassification exception>
+Feature identifiers:  119, 794, 795, 796, 801, 804
+
+(6 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AQ040 Bridge
+   Required Attribute SAX_RS8 Security Attributes Group <resource derivatively classified by>
+Feature identifiers:  119, 794, 795, 796, 801, 804
+
+(6 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AQ040 Bridge
+   Required Attribute SAX_RS9 Security Attributes Group <resource derived from>
+Feature identifiers:  119, 794, 795, 796, 801, 804
+
+(6 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AQ040 Bridge
+   Required Attribute SAX_RX1 Security Attributes Group <resource foreign government information (open source)>
+Feature identifiers:  119, 794, 795, 796, 801, 804
+
+(6 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AQ040 Bridge
+   Required Attribute SAX_RX2 Security Attributes Group <resource foreign government information (protected source)>
+Feature identifiers:  119, 794, 795, 796, 801, 804
+
+(6 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AQ040 Bridge
+   Required Attribute SAX_RX5 Security Attributes Group <resource releasable to>
+Feature identifiers:  119, 794, 795, 796, 801, 804
+
+(6 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AQ040 Bridge
+   Required Attribute SAX_RX6 Security Attributes Group <resource special-access-required program identifier>
+Feature identifiers:  119, 794, 795, 796, 801, 804
+
+(6 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AQ040 Bridge
+   Required Attribute SAX_RX7 Security Attributes Group <resource SCI controls>
+Feature identifiers:  119, 794, 795, 796, 801, 804
+
+(6 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AQ040 Bridge
+   Required Attribute SAX_RX8 Security Attributes Group <resource type of exempted source>
+Feature identifiers:  119, 794, 795, 796, 801, 804
+
+(6 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AQ040 Bridge
+   Required Attribute SAX_RX9 Security Attributes Group <resource compilation reason>
+Feature identifiers:  119, 794, 795, 796, 801, 804
+
+(6 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AQ040 Bridge
+   Required Attribute SAX_RY0 Security Attributes Group <resource display only to>
+Feature identifiers:  119, 794, 795, 796, 801, 804
+
+(6 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AQ040 Bridge
+   Required Attribute SAX_RY1 Security Attributes Group <resource non-US controls>
+Feature identifiers:  119, 794, 795, 796, 801, 804
+
+(6 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AQ040 Bridge
+   Required Attribute SAX_RY2 Security Attributes Group <resource atomic energy markings>
+Feature identifiers:  119, 794, 795, 796, 801, 804
+
+(6 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AQ040 Bridge
+   Required Attribute VCS_VCD Vertical Clearance, Safe <reference level>
+Feature identifiers:  119, 794, 795, 796, 801, 804
+
+(6 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AQ040 Bridge
+   Required Attribute VCS_VCR Vertical Clearance, Safe <reference level remark>
+Feature identifiers:  119, 794, 795, 796, 801, 804
+
+(6 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AQ040 Bridge
+   Required Attribute ZI001_SRT Source Information : Source Type
+Feature identifiers:  119, 794, 795, 796, 801, 804
+
+(6 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AQ040 Bridge
+   Required Attribute ZI001_VSC Source Information : Vertical Source Category
+Feature identifiers:  119, 794, 795, 796, 801, 804
+
+(6 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AQ040 Bridge
+   Required Attribute ZI004_RCG Feature Metadata : Process Step Information : Resource Content Originator
+Feature identifiers:  119, 794, 795, 796, 801, 804
+
+
+-----------
+  The following pertain to Surface feature data:
+
+(9 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL013 Building
+   Required Attribute ATB Attached Building
+Feature identifiers:  1, 2, 4, 6, 7, 8, 9, 10, 17
+
+(9 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL013 Building
+   Required Attribute AWP Aeronautical Obstacle Light Present
+Feature identifiers:  1, 2, 4, 6, 7, 8, 9, 10, 17
+
+(9 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL013 Building
+   Required Attribute BEN Basic Encyclopedia (BE) Number
+Feature identifiers:  1, 2, 4, 6, 7, 8, 9, 10, 17
+
+(9 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL013 Building
+   Required Attribute HST Hazard Shelter Intended Use
+Feature identifiers:  1, 2, 4, 6, 7, 8, 9, 10, 17
+
+(9 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL013 Building
+   Required Attribute HST2 Hazard Shelter Intended Use [2]
+Feature identifiers:  1, 2, 4, 6, 7, 8, 9, 10, 17
+
+(9 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL013 Building
+   Required Attribute HST3 Hazard Shelter Intended Use [3]
+Feature identifiers:  1, 2, 4, 6, 7, 8, 9, 10, 17
+
+(9 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL013 Building
+   Required Attribute MFB Manufactured Building
+Feature identifiers:  1, 2, 4, 6, 7, 8, 9, 10, 17
+
+(9 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL013 Building
+   Required Attribute MUB Multi-unit Building
+Feature identifiers:  1, 2, 4, 6, 7, 8, 9, 10, 17
+
+(9 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL013 Building
+   Required Attribute SAX_RS1 Security Attributes Group <resource classification reason>
+Feature identifiers:  1, 2, 4, 6, 7, 8, 9, 10, 17
+
+(9 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL013 Building
+   Required Attribute SAX_RS2 Security Attributes Group <resource classified by>
+Feature identifiers:  1, 2, 4, 6, 7, 8, 9, 10, 17
+
+(9 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL013 Building
+   Required Attribute SAX_RS3 Security Attributes Group <resource date of exempted source>
+Feature identifiers:  1, 2, 4, 6, 7, 8, 9, 10, 17
+
+(9 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL013 Building
+   Required Attribute SAX_RS4 Security Attributes Group <resource declassification date>
+Feature identifiers:  1, 2, 4, 6, 7, 8, 9, 10, 17
+
+(9 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL013 Building
+   Required Attribute SAX_RS5 Security Attributes Group <resource declassification event>
+Feature identifiers:  1, 2, 4, 6, 7, 8, 9, 10, 17
+
+(9 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL013 Building
+   Required Attribute SAX_RS6 Security Attributes Group <resource declassification exception>
+Feature identifiers:  1, 2, 4, 6, 7, 8, 9, 10, 17
+
+(9 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL013 Building
+   Required Attribute SAX_RS8 Security Attributes Group <resource derivatively classified by>
+Feature identifiers:  1, 2, 4, 6, 7, 8, 9, 10, 17
+
+(9 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL013 Building
+   Required Attribute SAX_RS9 Security Attributes Group <resource derived from>
+Feature identifiers:  1, 2, 4, 6, 7, 8, 9, 10, 17
+
+(9 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL013 Building
+   Required Attribute SAX_RX1 Security Attributes Group <resource foreign government information (open source)>
+Feature identifiers:  1, 2, 4, 6, 7, 8, 9, 10, 17
+
+(9 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL013 Building
+   Required Attribute SAX_RX2 Security Attributes Group <resource foreign government information (protected source)>
+Feature identifiers:  1, 2, 4, 6, 7, 8, 9, 10, 17
+
+(9 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL013 Building
+   Required Attribute SAX_RX5 Security Attributes Group <resource releasable to>
+Feature identifiers:  1, 2, 4, 6, 7, 8, 9, 10, 17
+
+(9 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL013 Building
+   Required Attribute SAX_RX6 Security Attributes Group <resource special-access-required program identifier>
+Feature identifiers:  1, 2, 4, 6, 7, 8, 9, 10, 17
+
+(9 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL013 Building
+   Required Attribute SAX_RX7 Security Attributes Group <resource SCI controls>
+Feature identifiers:  1, 2, 4, 6, 7, 8, 9, 10, 17
+
+(9 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL013 Building
+   Required Attribute SAX_RX8 Security Attributes Group <resource type of exempted source>
+Feature identifiers:  1, 2, 4, 6, 7, 8, 9, 10, 17
+
+(9 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL013 Building
+   Required Attribute SAX_RX9 Security Attributes Group <resource compilation reason>
+Feature identifiers:  1, 2, 4, 6, 7, 8, 9, 10, 17
+
+(9 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL013 Building
+   Required Attribute SAX_RY0 Security Attributes Group <resource display only to>
+Feature identifiers:  1, 2, 4, 6, 7, 8, 9, 10, 17
+
+(9 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL013 Building
+   Required Attribute SAX_RY1 Security Attributes Group <resource non-US controls>
+Feature identifiers:  1, 2, 4, 6, 7, 8, 9, 10, 17
+
+(9 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL013 Building
+   Required Attribute SAX_RY2 Security Attributes Group <resource atomic energy markings>
+Feature identifiers:  1, 2, 4, 6, 7, 8, 9, 10, 17
+
+(9 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL013 Building
+   Required Attribute ZI001_SRT Source Information : Source Type
+Feature identifiers:  1, 2, 4, 6, 7, 8, 9, 10, 17
+
+(9 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL013 Building
+   Required Attribute ZI001_VSC Source Information : Vertical Source Category
+Feature identifiers:  1, 2, 4, 6, 7, 8, 9, 10, 17
+
+(9 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL013 Building
+   Required Attribute ZI004_RCG Feature Metadata : Process Step Information : Resource Content Originator
+Feature identifiers:  1, 2, 4, 6, 7, 8, 9, 10, 17
+
+(6 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL014 Non-building Structure
+   Required Attribute AWP Aeronautical Obstacle Light Present
+Feature identifiers:  11, 12, 13, 14, 15, 16
+
+(6 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL014 Non-building Structure
+   Required Attribute BEN Basic Encyclopedia (BE) Number
+Feature identifiers:  11, 12, 13, 14, 15, 16
+
+(6 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL014 Non-building Structure
+   Required Attribute SAX_RS1 Security Attributes Group <resource classification reason>
+Feature identifiers:  11, 12, 13, 14, 15, 16
+
+(6 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL014 Non-building Structure
+   Required Attribute SAX_RS2 Security Attributes Group <resource classified by>
+Feature identifiers:  11, 12, 13, 14, 15, 16
+
+(6 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL014 Non-building Structure
+   Required Attribute SAX_RS3 Security Attributes Group <resource date of exempted source>
+Feature identifiers:  11, 12, 13, 14, 15, 16
+
+(6 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL014 Non-building Structure
+   Required Attribute SAX_RS4 Security Attributes Group <resource declassification date>
+Feature identifiers:  11, 12, 13, 14, 15, 16
+
+(6 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL014 Non-building Structure
+   Required Attribute SAX_RS5 Security Attributes Group <resource declassification event>
+Feature identifiers:  11, 12, 13, 14, 15, 16
+
+(6 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL014 Non-building Structure
+   Required Attribute SAX_RS6 Security Attributes Group <resource declassification exception>
+Feature identifiers:  11, 12, 13, 14, 15, 16
+
+(6 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL014 Non-building Structure
+   Required Attribute SAX_RS8 Security Attributes Group <resource derivatively classified by>
+Feature identifiers:  11, 12, 13, 14, 15, 16
+
+(6 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL014 Non-building Structure
+   Required Attribute SAX_RS9 Security Attributes Group <resource derived from>
+Feature identifiers:  11, 12, 13, 14, 15, 16
+
+(6 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL014 Non-building Structure
+   Required Attribute SAX_RX1 Security Attributes Group <resource foreign government information (open source)>
+Feature identifiers:  11, 12, 13, 14, 15, 16
+
+(6 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL014 Non-building Structure
+   Required Attribute SAX_RX2 Security Attributes Group <resource foreign government information (protected source)>
+Feature identifiers:  11, 12, 13, 14, 15, 16
+
+(6 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL014 Non-building Structure
+   Required Attribute SAX_RX5 Security Attributes Group <resource releasable to>
+Feature identifiers:  11, 12, 13, 14, 15, 16
+
+(6 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL014 Non-building Structure
+   Required Attribute SAX_RX6 Security Attributes Group <resource special-access-required program identifier>
+Feature identifiers:  11, 12, 13, 14, 15, 16
+
+(6 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL014 Non-building Structure
+   Required Attribute SAX_RX7 Security Attributes Group <resource SCI controls>
+Feature identifiers:  11, 12, 13, 14, 15, 16
+
+(6 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL014 Non-building Structure
+   Required Attribute SAX_RX8 Security Attributes Group <resource type of exempted source>
+Feature identifiers:  11, 12, 13, 14, 15, 16
+
+(6 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL014 Non-building Structure
+   Required Attribute SAX_RX9 Security Attributes Group <resource compilation reason>
+Feature identifiers:  11, 12, 13, 14, 15, 16
+
+(6 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL014 Non-building Structure
+   Required Attribute SAX_RY0 Security Attributes Group <resource display only to>
+Feature identifiers:  11, 12, 13, 14, 15, 16
+
+(6 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL014 Non-building Structure
+   Required Attribute SAX_RY1 Security Attributes Group <resource non-US controls>
+Feature identifiers:  11, 12, 13, 14, 15, 16
+
+(6 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL014 Non-building Structure
+   Required Attribute SAX_RY2 Security Attributes Group <resource atomic energy markings>
+Feature identifiers:  11, 12, 13, 14, 15, 16
+
+(6 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL014 Non-building Structure
+   Required Attribute ZI001_SRT Source Information : Source Type
+Feature identifiers:  11, 12, 13, 14, 15, 16
+
+(6 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL014 Non-building Structure
+   Required Attribute ZI001_VSC Source Information : Vertical Source Category
+Feature identifiers:  11, 12, 13, 14, 15, 16
+
+(6 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL014 Non-building Structure
+   Required Attribute ZI004_RCG Feature Metadata : Process Step Information : Resource Content Originator
+Feature identifiers:  11, 12, 13, 14, 15, 16
+

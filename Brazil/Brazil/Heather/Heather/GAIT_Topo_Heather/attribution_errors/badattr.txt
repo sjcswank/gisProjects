@@ -1,0 +1,21 @@
+
+
+Instances of attributes with invalid pick-list values found in:
+  C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\Heather_TDS7.gdb: Table TRANSPORTATIONGROUNDCRV:
+   680 instances of ZI001_VSC with invalid value: "-999999"
+      The first such instance is record number 22
+   680 instances of ZI001_SRT with invalid value: "-999999"
+      The first such instance is record number 22
+   680 instances of ZI004_RCG with invalid value: "-999999"
+      The first such instance is record number 22
+
+
+Instances of attributes with invalid pick-list values found in:
+  C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\Heather_TDS7.gdb: Table STRUCTURESRF:
+   15 instances of ZI001_VSC with invalid value: "-999999"
+      The first such instance is record number 1
+   15 instances of ZI001_SRT with invalid value: "-999999"
+      The first such instance is record number 1
+   15 instances of ZI004_RCG with invalid value: "-999999"
+      The first such instance is record number 1
+

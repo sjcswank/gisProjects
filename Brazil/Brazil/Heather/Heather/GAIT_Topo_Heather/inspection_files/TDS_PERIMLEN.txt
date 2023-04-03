@@ -1,0 +1,29 @@
+UNIQUE_CHECKS 1
+PERIMLEN 3
+PERIMLEN 1 C_PRIMARY C_ALL_LINE on
+PERIMLEN 1 C_PRIMARY C_SOME_LINE off
+PERIMLEN 1 C_PRIMARY C_ALL_AREA on
+PERIMLEN 1 C_PRIMARY C_SOME_AREA off
+PERIMLEN 1 TOLERANCE_PRIMARY 5.000000
+PERIMLEN 1 INCLUDE_BOUNDARY_CONDITIONS OFF
+PERIMLEN 1 ANNOTATION "Line (except Wall, Gate, Fence, Ford, Bridge, Bridge Span, Culvert, Vehicle Barrier, Land Water Boundary, Cart Track with LOC="On Waterbody Bottom", Road, and Building Superstructure with BSU="Parapet") and area features (except Building Superstructure with BSU="Parapet") with length less than 5m"
+PERIMLEN 2 C_PRIMARY C_SOME_LINE on
+PERIMLEN 2 C_PRIMARY C_SOME_AREA on
+PERIMLEN 2 C_PRIMARY C_ALL_LINE off
+PERIMLEN 2 C_PRIMARY C_ALL_AREA off
+PERIMLEN 2 TOLERANCE_PRIMARY 3.000000
+PERIMLEN 2 INCLUDE_BOUNDARY_CONDITIONS OFF
+PERIMLEN 2 ANNOTATION "Line Bridge or Bridge Span features with length less than 3m"
+PERIMLEN 3 C_PRIMARY C_SOME_LINE on
+PERIMLEN 3 C_PRIMARY C_SOME_AREA on
+PERIMLEN 3 C_PRIMARY C_ALL_LINE off
+PERIMLEN 3 C_PRIMARY C_ALL_AREA off
+PERIMLEN 3 TOLERANCE_PRIMARY 5.000000
+PERIMLEN 3 INCLUDE_BOUNDARY_CONDITIONS OFF
+PERIMLEN 3 ANNOTATION "Line Road features with length less than 5m (not reported if connected to point Tunnel Mouth, line Bridge, Tunnel, Ford, Ice Route, or Ferry Crossing, area Bridge, Tunnel, Vehicle Lot or Roadside Rest Area)"
+ATTRATTRATTR
+PERIMLEN 1 PRIMARY Bridge ANY off C_LINE
+PERIMLEN 1 PRIMARY Road ANY off C_LINE
+PERIMLEN 2 PRIMARY Bridge ANY on C_LINE
+PERIMLEN 3 PRIMARY Road ANY on C_LINE
+PERIMLEN 3 SECONDARY Bridge ANY on C_LINE

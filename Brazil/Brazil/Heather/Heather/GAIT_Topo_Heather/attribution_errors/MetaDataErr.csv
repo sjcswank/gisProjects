@@ -1,0 +1,5 @@
+Error Count,Layer Name,Feature Code,Feature Name,Attribute Code,Attribute Name,Error Description
+9,Heather_TDS7.gdb;Table STRUCTURESRF,AL013,Building,UFI,Unique Entity Identifier, required unique ID attribute has value 'noInformation'
+6,Heather_TDS7.gdb;Table STRUCTURESRF,AL014,Non-building Structure,UFI,Unique Entity Identifier, required unique ID attribute has value 'noInformation'
+674,Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV,AP030,Road,UFI,Unique Entity Identifier, required unique ID attribute has value 'noInformation'
+6,Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV,AQ040,Bridge,UFI,Unique Entity Identifier, required unique ID attribute has value 'noInformation'

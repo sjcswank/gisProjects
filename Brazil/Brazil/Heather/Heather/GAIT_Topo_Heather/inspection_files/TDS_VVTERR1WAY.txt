@@ -1,0 +1,51 @@
+UNIQUE_CHECKS 1
+VVTERR1WAY 4
+VVTERR1WAY 1 C_PRIMARY C_ALL_POFE off
+VVTERR1WAY 1 C_PRIMARY C_SOME_POFE on
+VVTERR1WAY 1 C_PRIMARY C_ALL_LINE off
+VVTERR1WAY 1 C_PRIMARY C_SOME_LINE on
+VVTERR1WAY 1 C_PRIMARY C_ALL_AREA off
+VVTERR1WAY 1 C_PRIMARY C_SOME_AREA on
+VVTERR1WAY 1 ANNOTATION "Features that are assigned "CCN" = "No Information""
+VVTERR1WAY 2 C_PRIMARY C_ALL_POFE off
+VVTERR1WAY 2 C_PRIMARY C_SOME_POFE on
+VVTERR1WAY 2 C_PRIMARY C_ALL_LINE off
+VVTERR1WAY 2 C_PRIMARY C_SOME_LINE on
+VVTERR1WAY 2 C_PRIMARY C_ALL_AREA off
+VVTERR1WAY 2 C_PRIMARY C_SOME_AREA on
+VVTERR1WAY 2 ANNOTATION "Features with "ZI001_SDV" or "MDE" not in CCYY-MM-DD format"
+VVTERR1WAY 3 C_PRIMARY C_ALL_POFE off
+VVTERR1WAY 3 C_PRIMARY C_SOME_POFE on
+VVTERR1WAY 3 C_PRIMARY C_ALL_LINE off
+VVTERR1WAY 3 C_PRIMARY C_SOME_LINE on
+VVTERR1WAY 3 C_PRIMARY C_ALL_AREA off
+VVTERR1WAY 3 C_PRIMARY C_SOME_AREA on
+VVTERR1WAY 3 ANNOTATION "Features that are assigned "ZI020_GE4" = "No Information""
+VVTERR1WAY 4 C_PRIMARY C_ALL_POFE off
+VVTERR1WAY 4 C_PRIMARY C_SOME_POFE on
+VVTERR1WAY 4 C_PRIMARY C_ALL_LINE off
+VVTERR1WAY 4 C_PRIMARY C_SOME_LINE on
+VVTERR1WAY 4 C_PRIMARY C_ALL_AREA off
+VVTERR1WAY 4 C_PRIMARY C_SOME_AREA on
+VVTERR1WAY 4 ANNOTATION "Features that are assigned "ZI026_CTUL" other than 1 or "ZI026_CTUU" less than 5000"
+ATTRATTRATTR
+VVTERR1WAY 1 PRIMARY Bridge Commercial_Copyright_Notice STRING "noInformation" on C_LINE
+VVTERR1WAY 1 PRIMARY Building Commercial_Copyright_Notice STRING "noInformation" on C_AREA
+VVTERR1WAY 1 PRIMARY Nonbuilding_Structure Commercial_Copyright_Notice STRING "noInformation" on C_AREA
+VVTERR1WAY 1 PRIMARY Road Commercial_Copyright_Notice STRING "noInformation" on C_LINE
+VVTERR1WAY 2 PRIMARY Bridge Source_Information__Source_Date_and_Time STRING "noInformation" on C_LINE
+VVTERR1WAY 2 PRIMARY Building Source_Information__Source_Date_and_Time STRING "noInformation" on C_AREA
+VVTERR1WAY 2 PRIMARY Nonbuilding_Structure Source_Information__Source_Date_and_Time STRING "noInformation" on C_AREA
+VVTERR1WAY 2 PRIMARY Road Source_Information__Source_Date_and_Time STRING "noInformation" on C_LINE
+VVTERR1WAY 3 PRIMARY Bridge Location_Country_Designation__GENC_Short_URNbased_Identifier LABEL No_Information on C_LINE
+VVTERR1WAY 3 PRIMARY Building Location_Country_Designation__GENC_Short_URNbased_Identifier LABEL No_Information on C_AREA
+VVTERR1WAY 3 PRIMARY Nonbuilding_Structure Location_Country_Designation__GENC_Short_URNbased_Identifier LABEL No_Information on C_AREA
+VVTERR1WAY 3 PRIMARY Road Location_Country_Designation__GENC_Short_URNbased_Identifier LABEL No_Information on C_LINE
+VVTERR1WAY 4 PRIMARY Bridge Feature_Metadata__Cartographic_Usability_Range_lower_value RANGE -999999.000000 -999999.000000 on C_LINE
+VVTERR1WAY 4 PRIMARY Bridge Feature_Metadata__Cartographic_Usability_Range_upper_value RANGE -999999.000000 -999999.000000 on C_LINE
+VVTERR1WAY 4 PRIMARY Building Feature_Metadata__Cartographic_Usability_Range_lower_value RANGE -999999.000000 -999999.000000 on C_AREA
+VVTERR1WAY 4 PRIMARY Building Feature_Metadata__Cartographic_Usability_Range_upper_value RANGE -999999.000000 -999999.000000 on C_AREA
+VVTERR1WAY 4 PRIMARY Nonbuilding_Structure Feature_Metadata__Cartographic_Usability_Range_lower_value RANGE -999999.000000 -999999.000000 on C_AREA
+VVTERR1WAY 4 PRIMARY Nonbuilding_Structure Feature_Metadata__Cartographic_Usability_Range_upper_value RANGE -999999.000000 -999999.000000 on C_AREA
+VVTERR1WAY 4 PRIMARY Road Feature_Metadata__Cartographic_Usability_Range_lower_value RANGE -999999.000000 -999999.000000 on C_LINE
+VVTERR1WAY 4 PRIMARY Road Feature_Metadata__Cartographic_Usability_Range_upper_value RANGE -999999.000000 -999999.000000 on C_LINE

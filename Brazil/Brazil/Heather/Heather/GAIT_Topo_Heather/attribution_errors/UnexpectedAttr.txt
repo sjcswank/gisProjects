@@ -1,0 +1,30 @@
+Unexpected Attributes
+
+-----------
+  The following pertain to Curve feature data:
+
+(674 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AP030 Road
+   Assigned Attribute AHA Absolute Horizontal Accuracy (90%)
+Feature identifiers:  22, 23, 24, 25, 27, 28, 29, 31, 32, 33,
+34, 35, 36, 37, 38, 39, 40, 41, 42, 43,
+44, 45, 46, 47, 48, 49, 50, 51, 52, 53,
+54, 56, 57, 58, 59, 60, 61, 62, 63, 64,
+65, 66, 67, 69, 70, 71, 73, 74, 75, 76
+(See report in file C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\GAIT_Topo_Heather\attribution_errors\AttrErr_FeatureID.txt for more feature identifiers)
+
+(6 occurrences)  Layer Identifier Heather_TDS7.gdb;Table TRANSPORTATIONGROUNDCRV: Feature AQ040 Bridge
+   Assigned Attribute AHA Absolute Horizontal Accuracy (90%)
+Feature identifiers:  119, 794, 795, 796, 801, 804
+
+
+-----------
+  The following pertain to Surface feature data:
+
+(9 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL013 Building
+   Assigned Attribute AHA Absolute Horizontal Accuracy (90%)
+Feature identifiers:  1, 2, 4, 6, 7, 8, 9, 10, 17
+
+(6 occurrences) Layer Identifier Heather_TDS7.gdb;Table STRUCTURESRF: Feature AL014 Non-building Structure
+   Assigned Attribute AHA Absolute Horizontal Accuracy (90%)
+Feature identifiers:  11, 12, 13, 14, 15, 16
+

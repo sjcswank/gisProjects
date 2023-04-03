@@ -1,0 +1,14 @@
+      None.
+      None.
+      None.
+      None.
+      None.
+      None.
+      None.
+       1:    "acc"
+       2:    "version"
+       3:    "zi016_wd2"
+       4:    "zi016_wt2"
+      2 Attributes with invalid data type found.
+      89 blank Geodatabase Tables found.
+      12 Geodatabase Bezier/Circle/Ellipse features found.

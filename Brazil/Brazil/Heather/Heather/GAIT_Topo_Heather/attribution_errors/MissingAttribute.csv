@@ -1,0 +1,102 @@
+FCODE,"FCODE Name","FCODE Occurrences","Required Attribute","Attribute Name","Attribute Missing Occurrences","Percent"
+"AL013","Building",9,"AWP","Aeronautical Obstacle Light Present",9,100.0
+"AL013","Building",9,"ATB","Attached Building",9,100.0
+"AL013","Building",9,"BEN","Basic Encyclopedia (BE) Number",9,100.0
+"AL013","Building",9,"ZI004_RCG","Feature Metadata : Process Step Information : Resource Content Originator",9,100.0
+"AL013","Building",9,"HST2","Hazard Shelter Intended Use [2]",9,100.0
+"AL013","Building",9,"HST3","Hazard Shelter Intended Use [3]",9,100.0
+"AL013","Building",9,"HST","Hazard Shelter Intended Use",9,100.0
+"AL013","Building",9,"MFB","Manufactured Building",9,100.0
+"AL013","Building",9,"MUB","Multi-unit Building",9,100.0
+"AL013","Building",9,"SAX_RX7","Security Attributes Group <resource SCI controls>",9,100.0
+"AL013","Building",9,"SAX_RY2","Security Attributes Group <resource atomic energy markings>",9,100.0
+"AL013","Building",9,"SAX_RS1","Security Attributes Group <resource classification reason>",9,100.0
+"AL013","Building",9,"SAX_RS2","Security Attributes Group <resource classified by>",9,100.0
+"AL013","Building",9,"SAX_RX9","Security Attributes Group <resource compilation reason>",9,100.0
+"AL013","Building",9,"SAX_RS3","Security Attributes Group <resource date of exempted source>",9,100.0
+"AL013","Building",9,"SAX_RS4","Security Attributes Group <resource declassification date>",9,100.0
+"AL013","Building",9,"SAX_RS5","Security Attributes Group <resource declassification event>",9,100.0
+"AL013","Building",9,"SAX_RS6","Security Attributes Group <resource declassification exception>",9,100.0
+"AL013","Building",9,"SAX_RS8","Security Attributes Group <resource derivatively classified by>",9,100.0
+"AL013","Building",9,"SAX_RS9","Security Attributes Group <resource derived from>",9,100.0
+"AL013","Building",9,"SAX_RY0","Security Attributes Group <resource display only to>",9,100.0
+"AL013","Building",9,"SAX_RX1","Security Attributes Group <resource foreign government information (open source)>",9,100.0
+"AL013","Building",9,"SAX_RX2","Security Attributes Group <resource foreign government information (protected source)>",9,100.0
+"AL013","Building",9,"SAX_RY1","Security Attributes Group <resource non-US controls>",9,100.0
+"AL013","Building",9,"SAX_RX5","Security Attributes Group <resource releasable to>",9,100.0
+"AL013","Building",9,"SAX_RX6","Security Attributes Group <resource special-access-required program identifier>",9,100.0
+"AL013","Building",9,"SAX_RX8","Security Attributes Group <resource type of exempted source>",9,100.0
+"AL013","Building",9,"ZI001_SRT","Source Information : Source Type",9,100.0
+"AL013","Building",9,"ZI001_VSC","Source Information : Vertical Source Category",9,100.0
+"AL014","Non-building Structure",6,"AWP","Aeronautical Obstacle Light Present",6,100.0
+"AL014","Non-building Structure",6,"BEN","Basic Encyclopedia (BE) Number",6,100.0
+"AL014","Non-building Structure",6,"ZI004_RCG","Feature Metadata : Process Step Information : Resource Content Originator",6,100.0
+"AL014","Non-building Structure",6,"SAX_RX7","Security Attributes Group <resource SCI controls>",6,100.0
+"AL014","Non-building Structure",6,"SAX_RY2","Security Attributes Group <resource atomic energy markings>",6,100.0
+"AL014","Non-building Structure",6,"SAX_RS1","Security Attributes Group <resource classification reason>",6,100.0
+"AL014","Non-building Structure",6,"SAX_RS2","Security Attributes Group <resource classified by>",6,100.0
+"AL014","Non-building Structure",6,"SAX_RX9","Security Attributes Group <resource compilation reason>",6,100.0
+"AL014","Non-building Structure",6,"SAX_RS3","Security Attributes Group <resource date of exempted source>",6,100.0
+"AL014","Non-building Structure",6,"SAX_RS4","Security Attributes Group <resource declassification date>",6,100.0
+"AL014","Non-building Structure",6,"SAX_RS5","Security Attributes Group <resource declassification event>",6,100.0
+"AL014","Non-building Structure",6,"SAX_RS6","Security Attributes Group <resource declassification exception>",6,100.0
+"AL014","Non-building Structure",6,"SAX_RS8","Security Attributes Group <resource derivatively classified by>",6,100.0
+"AL014","Non-building Structure",6,"SAX_RS9","Security Attributes Group <resource derived from>",6,100.0
+"AL014","Non-building Structure",6,"SAX_RY0","Security Attributes Group <resource display only to>",6,100.0
+"AL014","Non-building Structure",6,"SAX_RX1","Security Attributes Group <resource foreign government information (open source)>",6,100.0
+"AL014","Non-building Structure",6,"SAX_RX2","Security Attributes Group <resource foreign government information (protected source)>",6,100.0
+"AL014","Non-building Structure",6,"SAX_RY1","Security Attributes Group <resource non-US controls>",6,100.0
+"AL014","Non-building Structure",6,"SAX_RX5","Security Attributes Group <resource releasable to>",6,100.0
+"AL014","Non-building Structure",6,"SAX_RX6","Security Attributes Group <resource special-access-required program identifier>",6,100.0
+"AL014","Non-building Structure",6,"SAX_RX8","Security Attributes Group <resource type of exempted source>",6,100.0
+"AL014","Non-building Structure",6,"ZI001_SRT","Source Information : Source Type",6,100.0
+"AL014","Non-building Structure",6,"ZI001_VSC","Source Information : Vertical Source Category",6,100.0
+"AP030","Road",674,"BEN","Basic Encyclopedia (BE) Number",674,100.0
+"AP030","Road",674,"ZI004_RCG","Feature Metadata : Process Step Information : Resource Content Originator",674,100.0
+"AP030","Road",674,"WD2","Route Total Usable Width",674,100.0
+"AP030","Road",674,"SAX_RX7","Security Attributes Group <resource SCI controls>",674,100.0
+"AP030","Road",674,"SAX_RY2","Security Attributes Group <resource atomic energy markings>",674,100.0
+"AP030","Road",674,"SAX_RS1","Security Attributes Group <resource classification reason>",674,100.0
+"AP030","Road",674,"SAX_RS2","Security Attributes Group <resource classified by>",674,100.0
+"AP030","Road",674,"SAX_RX9","Security Attributes Group <resource compilation reason>",674,100.0
+"AP030","Road",674,"SAX_RS3","Security Attributes Group <resource date of exempted source>",674,100.0
+"AP030","Road",674,"SAX_RS4","Security Attributes Group <resource declassification date>",674,100.0
+"AP030","Road",674,"SAX_RS5","Security Attributes Group <resource declassification event>",674,100.0
+"AP030","Road",674,"SAX_RS6","Security Attributes Group <resource declassification exception>",674,100.0
+"AP030","Road",674,"SAX_RS8","Security Attributes Group <resource derivatively classified by>",674,100.0
+"AP030","Road",674,"SAX_RS9","Security Attributes Group <resource derived from>",674,100.0
+"AP030","Road",674,"SAX_RY0","Security Attributes Group <resource display only to>",674,100.0
+"AP030","Road",674,"SAX_RX1","Security Attributes Group <resource foreign government information (open source)>",674,100.0
+"AP030","Road",674,"SAX_RX2","Security Attributes Group <resource foreign government information (protected source)>",674,100.0
+"AP030","Road",674,"SAX_RY1","Security Attributes Group <resource non-US controls>",674,100.0
+"AP030","Road",674,"SAX_RX5","Security Attributes Group <resource releasable to>",674,100.0
+"AP030","Road",674,"SAX_RX6","Security Attributes Group <resource special-access-required program identifier>",674,100.0
+"AP030","Road",674,"SAX_RX8","Security Attributes Group <resource type of exempted source>",674,100.0
+"AP030","Road",674,"ZI001_SRT","Source Information : Source Type",674,100.0
+"AP030","Road",674,"ZI001_VSC","Source Information : Vertical Source Category",674,100.0
+"AP030","Road",674,"WT2","Width of Second Travelled Way",674,100.0
+"AQ040","Bridge",6,"AWP","Aeronautical Obstacle Light Present",6,100.0
+"AQ040","Bridge",6,"BEN","Basic Encyclopedia (BE) Number",6,100.0
+"AQ040","Bridge",6,"ZI004_RCG","Feature Metadata : Process Step Information : Resource Content Originator",6,100.0
+"AQ040","Bridge",6,"SAX_RX7","Security Attributes Group <resource SCI controls>",6,100.0
+"AQ040","Bridge",6,"SAX_RY2","Security Attributes Group <resource atomic energy markings>",6,100.0
+"AQ040","Bridge",6,"SAX_RS1","Security Attributes Group <resource classification reason>",6,100.0
+"AQ040","Bridge",6,"SAX_RS2","Security Attributes Group <resource classified by>",6,100.0
+"AQ040","Bridge",6,"SAX_RX9","Security Attributes Group <resource compilation reason>",6,100.0
+"AQ040","Bridge",6,"SAX_RS3","Security Attributes Group <resource date of exempted source>",6,100.0
+"AQ040","Bridge",6,"SAX_RS4","Security Attributes Group <resource declassification date>",6,100.0
+"AQ040","Bridge",6,"SAX_RS5","Security Attributes Group <resource declassification event>",6,100.0
+"AQ040","Bridge",6,"SAX_RS6","Security Attributes Group <resource declassification exception>",6,100.0
+"AQ040","Bridge",6,"SAX_RS8","Security Attributes Group <resource derivatively classified by>",6,100.0
+"AQ040","Bridge",6,"SAX_RS9","Security Attributes Group <resource derived from>",6,100.0
+"AQ040","Bridge",6,"SAX_RY0","Security Attributes Group <resource display only to>",6,100.0
+"AQ040","Bridge",6,"SAX_RX1","Security Attributes Group <resource foreign government information (open source)>",6,100.0
+"AQ040","Bridge",6,"SAX_RX2","Security Attributes Group <resource foreign government information (protected source)>",6,100.0
+"AQ040","Bridge",6,"SAX_RY1","Security Attributes Group <resource non-US controls>",6,100.0
+"AQ040","Bridge",6,"SAX_RX5","Security Attributes Group <resource releasable to>",6,100.0
+"AQ040","Bridge",6,"SAX_RX6","Security Attributes Group <resource special-access-required program identifier>",6,100.0
+"AQ040","Bridge",6,"SAX_RX8","Security Attributes Group <resource type of exempted source>",6,100.0
+"AQ040","Bridge",6,"ZI001_SRT","Source Information : Source Type",6,100.0
+"AQ040","Bridge",6,"ZI001_VSC","Source Information : Vertical Source Category",6,100.0
+"AQ040","Bridge",6,"VCS_VCR","Vertical Clearance, Safe <reference level remark>",6,100.0
+"AQ040","Bridge",6,"VCS_VCD","Vertical Clearance, Safe <reference level>",6,100.0

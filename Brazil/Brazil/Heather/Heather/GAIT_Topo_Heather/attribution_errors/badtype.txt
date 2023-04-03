@@ -1,0 +1,11 @@
+
+
+Attributes with invalid data types found in:
+  C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\Heather_TDS7.gdb: Table ISOGONICLINECRV:
+   Attribute MAG:  expected Float, got String
+
+
+Attributes with invalid data types found in:
+  C:\Users\Ro007904.MXR\Desktop\RUNG_GAIT\RUNG_GAIT\Heather\Heather_TDS7.gdb: Table WATERMOVEMENTDATALOCATIONPNT:
+   Attribute DOF:  expected Float, got Integer
+

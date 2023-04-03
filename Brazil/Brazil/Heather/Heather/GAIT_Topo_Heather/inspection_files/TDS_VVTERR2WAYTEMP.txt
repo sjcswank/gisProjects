@@ -1,0 +1,4 @@
+VVTERR2WAY 1 PRIMARY Road Route_Pavement_Information__Road_Weather_Restriction LABEL No_Information on C_LINE
+VVTERR2WAY 1 SECONDARY Road Route_Pavement_Information__Route_Surface_Composition LABEL Stabilized_Earth on C_LINE
+VVTERR2WAY 1 SECONDARY Road Route_Pavement_Information__Route_Surface_Composition LABEL Flexible_Pavement on C_LINE
+VVTERR2WAY 1 SECONDARY Road Route_Pavement_Information__Route_Surface_Composition LABEL Rigid_Pavement on C_LINE

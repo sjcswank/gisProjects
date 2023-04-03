@@ -1,0 +1,5 @@
+FCODE	Feature	ZI005_FNA	ZI005_NFN
+"AL014"	"Non-building Structure"	"noInformation"	"noInformation"
+"AP030"	"Road"	"noInformation"	"noInformation"
+"AQ040"	"Bridge"	"noInformation"	"noInformation"
+"AL013"	"Building"	"noInformation"	"noInformation"
